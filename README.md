@@ -1,40 +1,62 @@
 # 👋 Hi, I'm Lokesh Mudgal
 
 🎓 B.Tech @ NIT Kurukshetra
-💻 Interested in DevOps, MERN & Blockchain
-🚀 Passionate about building projects & solving DSA
+🚀 AI + Full Stack Developer
+🧠 Focused on Generative AI & Computer Vision
+⚙️ Building scalable MERN & Web3 applications
+
+---
+
+## 🔥 What I Do
+
+* Develop full-stack applications with real-world use cases
+* Work on deep learning & computer vision pipelines
+* Explore blockchain-based systems and smart contracts
 
 ---
 
 ## 🛠 Tech Stack
 
-* Languages: C++, JavaScript
-* Frontend: React, HTML, CSS
-* Backend: Node.js, Express , MongoDB , Ethers.js
-* Tools: Git, MongoDB, Cloudinary
+**Languages:** C++, JavaScript, Python
+**Frontend:** React, HTML, CSS
+**Backend:** Node.js, Express, MongoDB
+**Blockchain:** Solidity, Ethers.js
+**Tools:** Git, Cloudinary, Postman
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Attendance Manager
+### 🧠 3D Lung Tumor Detection (Flagship)
 
-* MERN stack project with JWT authentication , MongoDB connection , Good and easy to navigate UI and Sessions Creation
-* Tracks attendance per Semester session
+* Built a deep learning pipeline for tumor detection from CT scans
+* Applied Generative AI for data augmentation
+* Evaluated using Accuracy, Precision, Recall & F1-score
 
-### 🔹 Collectibles
+---
 
-* NFT Marketplace Application built using Ethereum and Ethers.js
-* Real-time Crypto wallet connection and ownership transfer of NFTs
+### 📊 Attendance Manager
+
+* Full-stack MERN application with JWT authentication
+* Session-based attendance tracking system
+* Secure API routes with cookie-based authentication
+
+---
+
+### 🪙 Collectibles (NFT Marketplace)
+
+* Built using Ethereum, Solidity & Ethers.js
+* Wallet integration for real-time NFT transactions
+* Smart contract-based ownership & secure transfers
 
 ---
 
 ## 🏆 Achievements
 
-* Solved 800+ problems
-* CodeChef Ratings: 1631
-* Leetcode: max( Knight 1878)
-* Codeforces: max(Pupil 1339)
+* Solved **800+ DSA problems**
+* CodeChef: **3⭐ (1631)**
+* LeetCode: **Knight (1878)**
+* Codeforces: **Pupil (1339)**
 
 ---
 
@@ -42,12 +64,15 @@
 
 * LeetCode: https://leetcode.com/lokesh_mudgal
 * Codeforces: https://codeforces.com/profile/lokesh_mudgal
-* Codechef: https://www.codechef.com/users/plush_resin_80
+* CodeChef: https://www.codechef.com/users/plush_resin_80
 
 ---
-## Portfolio
 
-*https://portfolio-mauve-tau-c7nq7jkbf2.vercel.app/
+## 🌐 Portfolio
+
+https://portfolio-mauve-tau-c7nq7jkbf2.vercel.app/
+
+---
 
 ## 📊 GitHub Stats
 
@@ -59,4 +84,3 @@
 
 * Email: [luvkushmudgal@email.com](mailto:luvkushmudgal@email.com)
 * LinkedIn: https://linkedin.com/in/lokesh-mudgal-771474299
-  
