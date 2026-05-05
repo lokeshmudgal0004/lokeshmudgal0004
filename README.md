@@ -51,7 +51,7 @@
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=yourusername)
+![streak](https://streak-stats.demolab.com?user=lokeshmudgal0004)
 
 ---
 
