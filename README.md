@@ -17,11 +17,11 @@
 
 ## 🛠 Tech Stack
 
-*Languages: C++, JavaScript, Python
-*Frontend: React, HTML, CSS
-*Backend: Node.js, Express, MongoDB
-*Blockchain: Solidity, Ethers.js
-*Tools: Git, Cloudinary, Postman
+* Languages: C++, JavaScript, Python
+* Frontend: React, HTML, CSS
+* Backend: Node.js, Express, MongoDB , Machine Learning , Computer Vision , Deep Learning
+* Blockchain: Solidity, Ethers.js
+* Tools: Git, Cloudinary, Postman , Jupyter Notebook
 
 ---
 
