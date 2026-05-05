@@ -27,11 +27,14 @@
 
 ## 📌 Featured Projects
 
-### 🧠 3D Lung Tumor Detection (Flagship)
+### 🧠 3D Lung Tumor Detection (Collaborative Project)
 
-* Built a deep learning pipeline for tumor detection from CT scans
-* Applied Generative AI for data augmentation
-* Evaluated using Accuracy, Precision, Recall & F1-score
+- Worked in a team to build a deep learning pipeline for CT scan analysis  
+- Focused on: [mention YOUR part clearly]
+- Applied Generative AI for data augmentation  
+- Evaluated using Accuracy, Precision, Recall & F1-score  
+
+[tanishDevX/lung-tumor-segmentation]
 
 ---
 
